@@ -5,7 +5,7 @@ GitHub license
 ###Description
 The project must prompt the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
 
-## picture of temlate
+## Picture of template
 <img src="assets/g.PNG" alt="PNG">
 
 ##Gif demo 
@@ -13,7 +13,7 @@ The project must prompt the user to build an engineering team. An engineering te
 <img src="assets/g.gif" alt="GIF">
 
 
-Installation
+#Installation
 To install necessary dependencies, run the following command:
 
  ### npm i
