@@ -2,11 +2,15 @@
 Team-Profile-Generator
 GitHub license
 
-Description
+###Description
 As a manager I want to generate a webpage that displays my team's basic info so that I have quick access to emails and GitHub profiles.
 
-Site Images
-Gif demo of README-generator
+##Site Images
+<img src="Assets/g.jpg" alt="GIF"
+
+##Gif demo 
+
+<img src="Assets/g.gif" alt="GIF"
 
 User input
 The project must prompt the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
