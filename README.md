@@ -3,6 +3,7 @@ Team-Profile-Generator
 GitHub license
 
 ###Description
+
 The project must prompt the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
 
 ## Picture of template
