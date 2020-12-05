@@ -7,7 +7,7 @@ The project must prompt the user to build an engineering team. An engineering te
 ##Site Images
 
 
-<img src="Assets/g.jpg" alt="GIF"
+<img src="assets/g.PNG" alt="GIF"
 
 ##Gif demo 
 
