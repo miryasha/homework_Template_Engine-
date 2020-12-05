@@ -6,7 +6,7 @@ GitHub license
 The project must prompt the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
 
 ## picture of temlate
-<img src="assets/g.NPG" alt="NPG">
+<img src="assets/g.PNG" alt="PNG">
 
 ##Gif demo 
 
