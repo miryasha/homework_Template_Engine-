@@ -16,8 +16,8 @@ Gif demo of team-page-generator CLI
 Installation
 To install necessary dependencies, run the following command:
 
-npm i
+ ### npm i
 Tests
 To run tests, run the following command:
 
-npm test
+### npm test
